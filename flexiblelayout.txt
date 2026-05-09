@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<h1> LAYOUT </h1> 
+<link rel="stylesheet" type="text/css" href="layoutstylesheet.css">
+
+</head>
+
+<body>
+
+<div id="header">
+
+<h3> historyden.com </h3>
+
+</div>
+
+<div id="navbar">
+
+ <ul>
+ 
+     <li><a href="">home</a></li>
+     <li><a href="">Ancient Greece</a></li>
+     <li><a href="">Ancient Rome</a></li>
+     <li><a href="">World war II</a></li>
+
+</ul>
+
+</div>
+
+  
+<div class="sideright" >
+
+<h2> lecture dates </h2>
+
+<p> 11/07 - Lecture on Caeser </p>
+<p> 11/07 - Lecture on Alexander </p>
+<p> 11/07 - Lecture on Herod </p>
+<p> 11/07 - Lecture on Pharoh </p>
+<p> 11/07 - Lecture on Napolean </p>
+
+</div>
+
+<div class="sideright" >
+
+<h2> lecture dates2 </h2>
+
+<p> 11/07 - Lecture on Caeser </p>
+<p> 11/07 - Lecture on Alexander </p>
+<p> 11/07 - Lecture on Herod </p>
+<p> 11/07 - Lecture on Pharoh </p>
+<p> 11/07 - Lecture on Napolean </p>
+
+</div>
+
+<div>
+
+<img class="imagesidebar" src="rose.jpg" width="300" height="250" >
+
+</div>
+
+<div class="main">
+
+<h1> JUST A NOTE </h1>
+
+<p>
+
+another space to write in just anything in other to make up my page .
+we are designing the layout part of the website and to do so we need
+ to start from the body which includes the header the title and the 
+navigation bar. either way we will set off on a good step towards acheiving this goal.
+
+
+
+</p>
+<h1> JUST A NOTE </h1>
+
+<p>
+
+another space to write in just anything in other to make up my page .
+we are designing the layout part of the website and to do so we need
+ to start from the body which includes the header the title and the 
+navigation bar. either way we will set off on a good step towards acheiving this goal.
+
+
+
+</p>
+
+
+
+</div>
+
+<div class="main">
+
+<h1> JUST A NOTE </h1>
+
+<p>
+
+another space to write in just anything in other to make up my page .
+we are designing the layout part of the website and to do so we need
+ to start from the body which includes the header the title and the 
+navigation bar. either way we will set off on a good step towards acheiving this goal.
+
+
+
+</p>
+<h1> JUST A NOTE </h1>
+
+<p>
+
+another space to write in just anything in other to make up my page .
+we are designing the layout part of the website and to do so we need
+ to start from the body which includes the header the title and the 
+navigation bar. either way we will set off on a good step towards acheiving this goal.
+
+</p>
+
+</div>
+
+<p>fixedlayout</p>
+<a href="fixedlayout.html>Fixedlayout</a>
+
+
+<div id="footer">
+
+<ul>
+
+<li><a href="">About Historyden<a/></li>
+<li><a href="">Careers<a/></li> 
+<li><a href="">Help<a/></li>
+<li><a href="">Contact Us<a/></li>
+
+</ul>
+
+&copy; 2024 Historyden.com. All rights reserved.
+
+</div>
+
+
+</body>
+
+
+</html>

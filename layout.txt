@@ -1,0 +1,25 @@
+<doctype!>
+
+<html>
+
+<body>
+
+<head>
+
+LAYOUT  
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+</head>
+
+<div id="header">
+
+</div>
+
+<div id="navbar">
+
+</div>
+
+</body>
+
+
+</html>
